@@ -1,0 +1,11 @@
+MATLAB TUTORIAL
+
+clc-clean screen
+clear-removes all variables from the current workspace
+
+random number generation
+Use the rand, randn, and randi functions to create sequences of pseudorandom numbers. Use the rng function to control the repeatability of your results. Use the RandStream class when you need more advanced control over random number generation.
+
+
+
+servo motor controlling the ulttrasonic sensor orientation
